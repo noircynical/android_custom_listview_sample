@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListSample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="datesample">화 9월 29일</string>
+    <string name="weathersample">Clouds</string>
+    <string name="hightemperature">21</string>
+    <string name="lowtemperature">19</string>
+</resources>
